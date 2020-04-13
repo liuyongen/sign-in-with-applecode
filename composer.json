@@ -1,0 +1,9 @@
+{
+    "name": "boyaa/sign_in_with_apple_code",
+    "description": "Apple authorization code login",
+    "autoload": {
+        "psr-4": {
+            "AppleSignIn\\": "src/"
+        }
+    }
+}
