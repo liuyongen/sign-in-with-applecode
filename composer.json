@@ -1,11 +1,10 @@
 {
     "name": "boyaa/sign_in_with_apple_code",
     "description": "Apple authorization code login",
-    "authors":[
-	{
-	   "name":"LiamLiu"
-	}
-    ],
+    "authors": [{
+        "name": "LiamLiu",
+        "email": "liamliu@boyaa.com"
+    }],
     "license": "MIT",
     "autoload": {
         "psr-4": {
