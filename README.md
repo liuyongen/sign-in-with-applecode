@@ -4,7 +4,7 @@
 ```json
 {
     "require": {
-        "boyaa/sign_in_with_apple_code": "@dev"
+        "boyaa/sign_in_with_apple_code": "1.0.0"
     }
 }
 ```
