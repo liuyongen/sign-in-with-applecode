@@ -1,6 +1,6 @@
-# 苹果登录授权校验
+# Apple login with code
 
-## 安装
+## Install
 ```json
 {
     "require": {
@@ -9,7 +9,7 @@
 }
 ```
 
-## 示例
+## Example
 
 ```php
 <?php
